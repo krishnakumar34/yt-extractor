@@ -1,7 +1,7 @@
 {
     "name": "yt-extractor",
     "version": "1.0.0",
-    "description": "Extracts a streaming URL from YouTube",
+    "description": "urle",
     "author": "Vinicius Egidio <me@vinicius.io>",
     "license": "ISC",
     "main": "build/app.bundle.js",
